@@ -9,12 +9,12 @@ const baseUrl = process.env.VERCEL_PROJECT_PRODUCTION_URL
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: 'Smart Class',
-    template: 'Smart Class | %s',
+    default: 'SnapClass — AI-Powered Attendance System',
+    template: 'SnapClass | %s',
   },
   description: 'Next-gen AI-powered biometric attendance system using FaceID and VoiceID technology',
   keywords: [
-    'Smart Class',
+    'SnapClass',
     'biometric attendance',
     'AI attendance',
     'Face recognition',
@@ -32,16 +32,16 @@ export const metadata: Metadata = {
     follow: true,
   },
   openGraph: {
-    title: 'Smart Class',
+    title: 'SnapClass — AI-Powered Attendance System',
     description: 'Next-gen AI-powered biometric attendance system using FaceID and VoiceID technology',
     url: 'https://smart-class-attendance.vercel.app',
-    siteName: 'Smart Class',
+    siteName: 'SnapClass',
     images: [
       {
         url: '/images/og-cover.png',
         width: 1200,
         height: 630,
-        alt: 'Smart Class - AI Biometric Attendance System',
+        alt: 'SnapClass - AI-Powered Attendance System',
       },
     ],
     locale: 'en_US',
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Smart Class',
+    title: 'SnapClass — AI-Powered Attendance System',
     description: 'Next-gen AI-powered biometric attendance system using FaceID and VoiceID technology',
     images: ['/images/og-cover.png'],
   },

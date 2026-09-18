@@ -1,6 +1,6 @@
 {
-  "name": "Smart Class",
-  "short_name": "Smart Class",
+  "name": "SnapClass — AI-Powered Attendance System",
+  "short_name": "SnapClass",
   "description": "Next-gen AI-powered biometric attendance system using FaceID and VoiceID technology",
   "start_url": "/",
   "display": "standalone",

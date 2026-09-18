@@ -1,4 +1,4 @@
-# 🏫 Smart Class: Next-Gen AI-Powered Biometric Attendance System
+# 📸 SnapClass — AI-Powered Attendance System
 LINK : ( https://landing-page-smart-class-q221.vercel.app/ )
 <div align="center">
 
@@ -13,7 +13,7 @@ LINK : ( https://landing-page-smart-class-q221.vercel.app/ )
 
 ## 🌟 Overview
 
-**Smart Class** is a state-of-the-art, next-generation attendance management system designed to bring speed, high-fidelity security, and effortless tracking to modern classrooms. By leveraging hybrid AI technologies—**FaceID** (Computer Vision) and **VoiceID** (Acoustic Biometrics)—Smart Class completely eliminates paper rosters, proxy attendance, and manual log-ins.
+**SnapClass** is a state-of-the-art, next-generation attendance management system designed to bring speed, high-fidelity security, and effortless tracking to modern classrooms. By leveraging hybrid AI technologies—**FaceID** (Computer Vision) and **VoiceID** (Acoustic Biometrics)—SnapClass completely eliminates paper rosters, proxy attendance, and manual log-ins.
 
 This repository hosts the Next.js landing page which acts as the visual flagship and portal for students and teachers. Under the hood, it links directly to our cloud-native Streamlit & Flask AI engine, communicating in real-time with our PostgreSQL infrastructure hosted on Supabase.
 
@@ -38,7 +38,7 @@ This repository hosts the Next.js landing page which acts as the visual flagship
 
 ## 📐 System Architecture
 
-Smart Class fuses top-tier web architectures with state-of-the-art Python artificial intelligence pipelines.
+SnapClass fuses top-tier web architectures with state-of-the-art Python artificial intelligence pipelines.
 
 ```mermaid
 graph TD
@@ -121,7 +121,7 @@ Follow these steps to run the landing portal locally.
 
 ## 👨‍💻 Developer Profile
 
-Smart Class was fully designed, engineered, and shipped by **Ujjwal Sharma**. Feel free to explore his portfolio or reach out for inquiries:
+SnapClass was fully designed, engineered, and shipped by **Ujjwal Sharma**. Feel free to explore his portfolio or reach out for inquiries:
 
 * **Portfolio Website**: [know-about-myself-odot.vercel.app](https://know-about-myself-odot.vercel.app/)
 * **GitHub Profile**: [@us8024435-debug](https://github.com/us8024435-debug)

@@ -17,14 +17,14 @@ export default function AboutSection() {
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_rgba(255,255,255,0.03)_0%,_transparent_70%)] pointer-events-none" />
 
       <div className="relative z-10 max-w-5xl mx-auto flex flex-col items-center">
-        {/* Label "About Smart Class" */}
+        {/* Label "About SnapClass" */}
         <motion.p
           initial={{ opacity: 0, y: 20 }}
           animate={isInView ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.6 }}
           className="text-white/40 text-xs sm:text-sm tracking-widest uppercase mb-6 sm:mb-8 font-mono"
         >
-          About Smart Class
+          About SnapClass
         </motion.p>
 
         {/* Heading */}

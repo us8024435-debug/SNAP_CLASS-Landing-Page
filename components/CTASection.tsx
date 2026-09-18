@@ -28,7 +28,7 @@ export default function CTASection() {
 
           {/* Description */}
           <p className="text-white/50 text-base md:text-lg leading-relaxed max-w-2xl mx-auto mt-6 mb-10 font-light">
-            Join thousands of educators who have simplified their day with Smart Class. The smartest AI powered attendance system is just one click away.
+            Join thousands of educators who have simplified their day with SnapClass. The smartest AI powered attendance system is just one click away.
           </p>
 
           {/* Action button */}

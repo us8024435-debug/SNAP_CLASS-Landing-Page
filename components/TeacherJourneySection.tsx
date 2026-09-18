@@ -39,7 +39,7 @@ export default function TeacherJourneySection() {
       step: '03',
       badge: 'Step 03',
       title: 'Course Management',
-      description: 'Creating a new subject is a breeze. Just name it, and Smart Class generates everything you need to start tracking.',
+      description: 'Creating a new subject is a breeze. Just name it, and SnapClass generates everything you need to start tracking.',
       placeholderText: 'Course Manager',
       imageUrl: '/images/class_teacher_dashboard.png',
     },

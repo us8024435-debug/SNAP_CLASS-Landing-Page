@@ -142,7 +142,7 @@ export default function HeroSection() {
             {/* Left Brand elements and navigation anchors */}
             <div className="flex items-center gap-2">
               <Camera className="w-5 h-5 sm:w-6 sm:h-6 text-white animate-pulse" />
-              <span className="text-white font-semibold text-sm sm:text-base md:text-lg tracking-wider font-sans uppercase">Smart Class</span>
+              <span className="text-white font-semibold text-sm sm:text-base md:text-lg tracking-wider font-sans uppercase">SnapClass</span>
               
               {/* Desktop anchor options */}
               <nav className="hidden md:flex items-center gap-8 ml-10">

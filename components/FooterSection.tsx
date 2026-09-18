@@ -21,7 +21,7 @@ export default function FooterSection() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Camera className="w-5 h-5 text-white" />
-              <span className="text-white text-xl font-semibold tracking-tight">Smart Class</span>
+              <span className="text-white text-xl font-semibold tracking-tight">SnapClass</span>
             </div>
             <p className="text-white/40 text-sm leading-relaxed font-light">
               The next generation of classroom management, powered by advanced AI biometrics. Join the future of education today.
@@ -181,7 +181,7 @@ export default function FooterSection() {
         {/* Bottom copyright line */}
         <div className="border-t border-white/10 pt-8 text-center flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-white/30 text-xs tracking-widest uppercase font-mono">
-            &copy; 2026 Smart Class AI. Designed & Developed by Ujjwal Sharma.
+            &copy; 2026 SnapClass AI. Designed & Developed by Ujjwal Sharma.
           </p>
           <p className="text-white/20 text-xs tracking-widest uppercase font-mono">
             All rights reserved.
