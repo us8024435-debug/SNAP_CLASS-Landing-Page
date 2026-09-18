@@ -1,12 +1,12 @@
 # 📸 SnapClass — AI-Powered Attendance System
-LINK : ( https://landing-page-smart-class-q221.vercel.app/ )
+LINK : ( https://snap-class-attendance.vercel.app/ )
 <div align="center">
 
   [![Next.js](https://img.shields.io/badge/Next.js-15.4.9-black?logo=next.js&style=flat-round)](https://nextjs.org/)
   [![React](https://img.shields.io/badge/React-19.2.1-blue?logo=react&style=flat-round)](https://react.dev/)
   [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38bdf8?logo=tailwindcss&style=flat-round)](https://tailwindcss.com/)
   [![AI Biometrics](https://img.shields.io/badge/AI%20Biometrics-FaceID%20%2B%20VoiceID-purple?style=flat-round)](#)
-  [![Vercel Deployment](https://img.shields.io/badge/Deployed-Vercel-success?logo=vercel&style=flat-round)](https://smart-class-attendance.vercel.app)
+  [![Vercel Deployment](https://img.shields.io/badge/Deployed-Vercel-success?logo=vercel&style=flat-round)](https://snap-class-attendance.vercel.app)
 </div>
 
 ---
@@ -94,7 +94,7 @@ Follow these steps to run the landing portal locally.
 1. **Clone the repository** (if not already done):
    ```bash
    git clone <repository-url>
-   cd asme-landing-page
+   cd snap-class
    ```
 
 2. **Install all project dependencies**:

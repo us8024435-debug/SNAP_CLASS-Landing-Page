@@ -47,7 +47,7 @@ export default function FooterSection() {
                   onClick={() => scrollToSection('about')}
                   className="text-white/40 text-sm hover:text-white/80 transition-all cursor-pointer text-left block focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50"
                 >
-                  Smart Roster
+                  Snap Roster
                 </button>
               </li>
               <li>

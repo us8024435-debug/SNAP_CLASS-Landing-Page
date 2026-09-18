@@ -4,7 +4,7 @@ import SmoothScroll from '@/components/SmoothScroll';
 
 const baseUrl = process.env.VERCEL_PROJECT_PRODUCTION_URL
   ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-  : 'https://smart-class-attendance.vercel.app';
+  : 'https://snap-class-attendance.vercel.app';
 
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
@@ -15,6 +15,7 @@ export const metadata: Metadata = {
   description: 'Next-gen AI-powered biometric attendance system using FaceID and VoiceID technology',
   keywords: [
     'SnapClass',
+    'Snap Class',
     'biometric attendance',
     'AI attendance',
     'Face recognition',
@@ -34,7 +35,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'SnapClass — AI-Powered Attendance System',
     description: 'Next-gen AI-powered biometric attendance system using FaceID and VoiceID technology',
-    url: 'https://smart-class-attendance.vercel.app',
+    url: 'https://snap-class-attendance.vercel.app',
     siteName: 'SnapClass',
     images: [
       {
