@@ -48,7 +48,7 @@ export default function FeaturedVideoSection() {
 
             {/* Right Action Button */}
             <motion.a
-              href="https://smart-class-s1.streamlit.app/"
+              href="https://snap-class-ai-attendence-webapp.streamlit.app/"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}

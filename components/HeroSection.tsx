@@ -123,7 +123,6 @@ export default function HeroSection() {
         <div className="absolute inset-0 bg-black pointer-events-none z-0 bg-gradient-to-b from-neutral-900 to-black">
           <video
             ref={videoRef}
-            poster="/fallback-poster.jpg"
             src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260405_074625_a81f018a-956b-43fb-9aee-4d1508e30e6a.mp4"
             className="absolute inset-0 w-full h-full object-cover object-bottom opacity-0 transition-none select-none pointer-events-none will-change-[opacity] translate-z-0"
             muted
@@ -171,7 +170,7 @@ export default function HeroSection() {
             {/* Right Sign-up option and interactive launch button */}
             <div className="flex items-center gap-3 sm:gap-4">
               <a 
-                href="https://smart-class-s1.streamlit.app/" 
+                href="https://snap-class-ai-attendence-webapp.streamlit.app/"
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="liquid-glass rounded-full px-4 sm:px-6 py-2 text-white text-xs sm:text-sm font-medium hover:bg-white/5 transition-all cursor-pointer inline-block focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/50"

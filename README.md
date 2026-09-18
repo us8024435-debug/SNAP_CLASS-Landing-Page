@@ -123,7 +123,7 @@ Follow these steps to run the landing portal locally.
 
 Smart Class was fully designed, engineered, and shipped by **Ujjwal Sharma**. Feel free to explore his portfolio or reach out for inquiries:
 
-* **Portfolio Website**: [ujjwal-sharma-dev.netlify.app](https://ujjwal-sharma-dev.netlify.app)
+* **Portfolio Website**: [know-about-myself-odot.vercel.app](https://know-about-myself-odot.vercel.app/)
 * **GitHub Profile**: [@us8024435-debug](https://github.com/us8024435-debug)
 * **LinkedIn**: [Ujjwal Sharma on LinkedIn](https://www.linkedin.com/in/ujjwal-sharma-776832293)
 * **Email Address**: [us5533400@gmail.com](mailto:us5533400@gmail.com)

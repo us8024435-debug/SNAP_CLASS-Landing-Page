@@ -123,7 +123,7 @@ export default function FooterSection() {
               <ul className="space-y-2.5 font-light text-sm text-white/40">
                 <li>
                   <a 
-                    href="https://ujjwal-sharma-dev.netlify.app" 
+                    href="https://know-about-myself-odot.vercel.app/"
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="hover:text-white transition-colors flex items-center gap-2 font-sans"

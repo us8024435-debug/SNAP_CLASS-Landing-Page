@@ -1,5 +1,6 @@
 import type {Metadata, Viewport} from 'next';
 import './globals.css'; // Global styles
+import SmoothScroll from '@/components/SmoothScroll';
 
 const baseUrl = process.env.VERCEL_PROJECT_PRODUCTION_URL
   ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
@@ -65,7 +66,7 @@ export default function RootLayout({children}: {children: React.ReactNode}) {
         <meta name="theme-color" content="#0a0a1a" />
       </head>
       <body className="bg-black text-white selection:bg-white/20 selection:text-white" suppressHydrationWarning>
-        {children}
+        <SmoothScroll>{children}</SmoothScroll>
       </body>
     </html>
   );
